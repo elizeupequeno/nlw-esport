@@ -6,7 +6,7 @@
  
  Projeto construido do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar]{https://elizeupequeno.github.io/nlw-esport/}
+[🔗 Clique aqui para acessar] https://elizeupequeno.github.io/nlw-esport/
 
  ## 🛠️Tecnologias
 
